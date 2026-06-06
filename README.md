@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://rexondex.tistory.com" target="_blank">
-    <img src="images/rexondex_blog_m.png" alt="Blog" height="40">
+    <img src="images/rexondex_blog_logos.png" alt="Blog" height="40">
   </a>
 </div>
 
