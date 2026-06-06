@@ -15,3 +15,9 @@
     <img src="images/rexondex_blog_m.png" alt="Blog" height="40">
   </a>
 </div>
+
+<div align="center">
+  <a href="https://rexondex.github.io/" target="_blank">
+    <img src="images/monolog_logo.png" alt="monolog" height="40">
+  </a>
+</div>
