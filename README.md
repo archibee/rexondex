@@ -18,6 +18,6 @@
 
 <div align="center">
   <a href="https://rexondex.github.io/" target="_blank">
-    <img src="images/ThinkPad.png" alt="ThinkPad" height="28">
+    <img src="images/ThinkPad.png" alt="ThinkPad" height="34">
   </a>
 </div>
