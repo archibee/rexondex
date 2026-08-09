@@ -18,6 +18,6 @@
 
 <div align="center">
   <a href="https://rexondex.github.io/" target="_blank">
-    <img src="images/thoughts_badge.png" alt="github.io" height="32">
+    <img src="images/rexondex-archive-img.png" alt="github.io" height="58">
   </a>
 </div>
