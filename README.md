@@ -12,12 +12,12 @@
 
 <div align="center">
   <a href="https://rexondex.tistory.com" target="_blank">
-    <img src="images/rexondex_blog_logos.png" alt="Blog" height="26">
+    <img src="logos/rexondex_blog_logos.png" alt="Blog" height="26">
   </a>
 </div>
 
 <div align="center">
   <a href="https://rexondex.github.io/" target="_blank">
-    <img src="images/rexondex-archive-img.png" alt="github.io" height="58">
+    <img src="logos/rexondex-archive-img.png" alt="github.io" height="58">
   </a>
 </div>
