@@ -22,6 +22,8 @@
 
 # rexondex
 
+> all things change • nothing is lost
+
 Developer exploring AI integration, privacy-focused architecture, and no-storage systems.
 
 ## Currently Building
