@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://x.com/rexon_dex" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="35">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X(Twitter)" height="35">
 </a>
 
 <a href="https://rexondex.tistory.com" target="_blank">
@@ -17,11 +17,11 @@
 </a>
 
 <a href="https://rexondex.github.io/" target="_blank">
-  <img src="logos/rexondex-archive-img.png" alt="github.io" height="26">
+  <img src="logos/rexondex-archive-img.png" alt="GitHub Pages" height="26">
 </a>
 
 <a href="https://bsky.app/profile/rexondex.bsky.social" target="_blank">
-  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" height="35">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="BlueSky" height="35">
 </a>
 
 <a href="https://www.reddit.com/user/rexondex" target="_blank">
